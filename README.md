@@ -10,7 +10,7 @@ public class aboutme(String[] args) {
   public static final String GithubUsername = "BussyBakks";
   public static final String LangIWorked = "Batch, Python, Java, new C++";
   public static final String Gender = "nope .-.";
-  public static final String Country = "Vietnam"
+  public static final String Country = "Vietnam";
   public static final String Discord = ".thenoppy12#0;
 
   logger.info("nice to meet u :D")
