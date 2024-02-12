@@ -3,7 +3,7 @@
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class aboutme(String[] args)
+public class aboutme(String[] args) {
   public static final Logger logger = LogManager.getLogger("BussyBakks");
 
   public static final String RealName = "Nguyen Van Ngu";
@@ -14,4 +14,5 @@ public class aboutme(String[] args)
   public static final String Discord = ".thenoppy12#0;
 
   logger.info("nice to meet u :D")
+}
 ```
