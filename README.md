@@ -1,9 +1,17 @@
-# hi :D
-im **BussyBakks** (or **``thenoppy12``** in MC and **``BlueAxolotls``** in discord)
+## hi:D
+```java
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
-i like java, but my laptop like napoleon when he was young:) (aka very old laptop)
+public class aboutme(String[] args)
+  public static final Logger logger = LogManager.getLogger("BussyBakks");
 
-i like python too, but im great at batch > py > java
+  public static final String RealName = "Nguyen Van Ngu";
+  public static final String GithubUsername = "BussyBakks";
+  public static final String LangIWorked = "Batch, Python, Java, new C++";
+  public static final String Gender = "nope .-.";
+  public static final String Country = "Vietnam"
+  public static final String Discord = ".thenoppy12#0;
 
-* My Discord: **``.thenoppy12#0``** or **``very sussy account#6662``**
-* Xbox: **``thenoppy12``** or **``thenoopy12``**
+  logger.info("nice to meet u :D")
+```
