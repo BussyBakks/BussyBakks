@@ -13,6 +13,6 @@ public class aboutme(String[] args) {
   public static final String Country = "Vietnam";
   public static final String Discord = ".thenoppy12#0;
 
-  logger.info("nice to meet u :D")
+  logger.info("welcum to my profile:D")
 }
 ```
