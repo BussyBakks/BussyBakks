@@ -2,7 +2,8 @@
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class aboutme(String[] args) {
+// about me
+public class main(String[] args) {
   public static final Logger logger = LogManager.getLogger("BussyBakks");
 
   public static final String RealName = "Nguyen Van Ngu";
