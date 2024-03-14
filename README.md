@@ -7,7 +7,7 @@ public class main(String[] args) {
   public static final Logger logger = LogManager.getLogger("BussyBakks");
 
   public static final String RealName           = "Nguyen Van Ngu";
-  public static final Int Age                   = 14;
+  public static final Int    Age                = 14;
   public static final String GithubUsername     = "BussyBakks";
   public static final String LangIWorked        = "Batch, Python, Java, new freakingC++itssohardlmao";
   public static final String Gender             = "nope .-.";
