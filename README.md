@@ -16,7 +16,7 @@ public class Main {
     private static final String LordWebsite        = "https://thenoppy12.is-a.dev";
     private static final String Country            = "Vietnam";
     private static final String MinecraftUsername  = "thenoppy12";
-    private static final String Discord            = ".ano_thenoppy12#0";
+    private static final String Discord            = "26.11.100.137";
     private static final String ContributorAt      = "rejetto/hfs";
 
     logger.info("welcum to my profile:D")
