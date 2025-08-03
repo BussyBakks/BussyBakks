@@ -16,7 +16,7 @@ public class Main {
     private static final String GithubUsername     = "BussyBakks";
     private static final String LangIWorked        = "Batch, Python, Java, C# (.NET framework)";
     private static final String Gender             = "nope .-.";
-    private static final String Pronouns           = "/"they/them/"";
+    private static final String Pronouns           = "\"they/them\"";
     private static final String[] Website          = {"https://thenoppy12.is-a.dev", "https://thenoppy12.hopto.org"}
     private static final String Country            = "Vietnam";
     private static final String MinecraftUsername  = "thenoppy12";
